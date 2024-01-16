@@ -2,7 +2,7 @@
 
 This project consists of a simple blog preview card created using HTML and CSS. The card is designed to showcase a blog post with an appealing visual layout. The card is responsive and suitable for various devices.
 
-![image](https://github.com/Mayank-Garg7/Blog_Preview_Card/assets/113042462/5ad9e1f5-e3c3-44a9-bf62-2df49189d7f0)
+![Screenshot from 2024-01-13 11-48-39](https://github.com/Mayank-Garg7/Blog_Preview_Card/assets/113042462/ccb5ba73-55c0-4f6f-a2a3-1b190003e9cc)
 
 ## Table of Contents
 
@@ -42,9 +42,13 @@ Feel free to customize the styles and content based on your preferences. You can
 
 The card is designed to be responsive, adapting to different screen sizes. Media queries have been used to optimize the layout for both desktop and mobile devices.
 
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t![mobile-design](https://github.com/Mayank-Garg7/Blog_Preview_Card/assets/113042462/1c3e127a-abd3-4cf2-bf8c-016684f32ed7)
+
 ### Media Queries:
 
 - The CSS file includes media queries to adjust styles for smaller screens, ensuring a pleasant viewing experience on mobile devices.
+- 
+![active-states](https://github.com/Mayank-Garg7/Blog_Preview_Card/assets/113042462/b068ca45-bf39-41b6-b676-a87a72f462d6)
 
 ## Authors
 
