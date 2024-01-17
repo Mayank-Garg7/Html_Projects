@@ -22,15 +22,16 @@ body {
 
 /* Styles for the container housing the blog preview card */
 .container {
-    padding: 15px;
+    padding: 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 350px; /* Set initial and maximum width of the container */
-    min-width: 300px;
+    width: 370px; /* Set initial and maximum width of the container */
+    height: 33rem;
+    min-width: 370px;
     background-color: hsl(0, 0%, 100%); /* Background color for the container */
     border: 1px solid black;
-    border-radius: 10px;
+    border-radius: 20px;
     box-shadow: 5px 5px 0px rgb(10, 9, 9); /* Box shadow for a subtle lift */
 
     /* Remove box shadow on hover for a cleaner look */
@@ -44,18 +45,19 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 100%;
 }
 
 .images {
-    border-radius: 10px;
-    width: 100%;
+    border-radius: 20px;
+    width: 21rem;
 }
 
 /* Styles for the button inside the container */
 button {
-    width: 50%; /* Set the width of the button to 50% of its container */
+    width: 25%; /* Set the width of the button to 50% of its container */
     height: auto;
-    margin-top: 10px;
+    margin-top: 20px;
     margin-bottom: 5px; /* Add bottom margin for spacing */
     background-color: hsl(47, 88%, 63%); /* Background color for the button */
     border: none; /* Remove border */
@@ -67,7 +69,7 @@ button {
 /* Styles for the footer section containing the author information */
 .footer {
     display: flex; /* Use flexbox for layout */
-    margin-top: 20px; /* Add top margin for spacing */
+    margin-top: 10px; /* Add top margin for spacing */
 }
 
 /* Styles for the author name in the footer */

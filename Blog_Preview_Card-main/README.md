@@ -4,6 +4,8 @@ This project consists of a simple blog preview card created using HTML and CSS. 
 
 ![Screenshot from 2024-01-13 11-48-39](https://github.com/Mayank-Garg7/Blog_Preview_Card/assets/113042462/ccb5ba73-55c0-4f6f-a2a3-1b190003e9cc)
 
+"Your STAR fuels my commitment to excellence. If you appreciate this project, please hit STAR—a catalyst for future outstanding creations."
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
@@ -63,3 +65,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - This project is a simple example of creating a responsive blog preview card using HTML and CSS.
 
 Feel free to reach out if you have any questions or suggestions!
+
